@@ -9,7 +9,6 @@ across FY2020 and FY2021.
 ## Tools Used
 - MySQL Workbench
 - Gamma (presentation)
-- Kling AI (video)
 
 ## Database
 gdb023 — atliq_hardware_db (6 tables)
