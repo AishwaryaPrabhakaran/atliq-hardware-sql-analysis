@@ -29,8 +29,8 @@ gdb023 — atliq_hardware_db (6 tables)
 | 10 | Top 3 products per division FY2021 | N&S leads volume by far |
 
 ## Presentation & Video
-- Presentation: [Link to Gamma slide]
-- Video Walkthrough: [Link to Loom video]
+- Presentation: - 📊 Presentation: [Download Slides](https://github.com/AishwaryaPrabhakaran/atliq-hardware-sql-analysis/blob/main/presentation/Atliq-Hardware_Analysis_Presentation.pdf)
+- Video Walkthrough: https://youtu.be/UBhjC_wGpPI
 
 ## Challenge
 Codebasics Resume Project Challenge
